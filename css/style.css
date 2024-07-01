@@ -13,3 +13,8 @@
     display: table;
     clear: both;
 }
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
